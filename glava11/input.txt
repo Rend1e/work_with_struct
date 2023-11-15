@@ -1,0 +1,24 @@
+123
+max
+max
+qewe
+w
+4 5 4 5 4
+1234
+max
+max
+qewe
+w
+4 3 2 1 4
+1235
+max
+max
+qewe
+w
+4 1 2 3 1
+1236
+max
+max
+qewe
+w
+4 3 2 1 3
